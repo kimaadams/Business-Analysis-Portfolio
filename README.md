@@ -1,8 +1,8 @@
-# Business Analysis Portfolio
+# Business Analysis & Data Portfolio
 
 Welcome to my business analysis portfolio.
 
-This repository showcases practical projects developed to strengthen my skills in:
+This repository showcases practical projects demonstrating business analysis, business intelligence and data analytics capabilities.
 
 - Business Analysis
 - SQL
@@ -10,9 +10,9 @@ This repository showcases practical projects developed to strengthen my skills i
 - Grafana
 - AI Governance
 
-## Projects
+## Portfolio projects
 
-Projects will be added as they are completed, including:
+Portfolio projects will be added as they are completed, including:
 
 - SQL Database Projects
 - Power BI Dashboards
